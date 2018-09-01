@@ -1,2 +1,3 @@
 # hello_world
-This is my first git repository.
+My name is X.
+i am a student and from Bangladesh.
